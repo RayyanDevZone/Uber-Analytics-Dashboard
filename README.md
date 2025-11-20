@@ -92,3 +92,6 @@ The result: **better planning, higher customer satisfaction, and improved operat
 If you need enhancements, new visuals, or a custom redesign — feel free to reach out!
 
 ---
+## 📥 **Some Snapshot of the project**
+So this is how the dashboard looks :-
+![Dashboard Preview](https://github.com/RayyanDevZone/Uber-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard)
